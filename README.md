@@ -105,4 +105,3 @@ After committing, you can monitor the workflow:
 - Separate multiple URLs with spaces
 - The workflow skips itself using `[skip ci]` in its own commit message to avoid infinite loops
 - If no valid `download:` or `download-zip:` command is found in the commit message, the workflow will exit without doing anything
-- download: https://download.steinberg.net/automated_updates/sda_downloads/2fcb72fa-0278-42c6-bb4c-ba09a6b95369/Cubase_15.0.21_Installer_win64.zip
